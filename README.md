@@ -1,3 +1,3 @@
 # parallax-website
 This is a parallax-website
-<h1>Simple parallax Website </h1>
+<h2>Simple parallax Website using HTML and CSS</h2>
